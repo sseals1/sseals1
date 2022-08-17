@@ -1,11 +1,11 @@
 ### Hi there 👋
-
+- Check out my Resume https://docs.google.com/document/d/1gd9fr-l4qrNyMXVWfqjGccpUNxJWC-2X/edit#heading=h.gjdgxs
 <!--
 **sseals1/sseals1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- Check out my Resume https://docs.google.com/document/d/1gd9fr-l4qrNyMXVWfqjGccpUNxJWC-2X/edit#heading=h.gjdgxs
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
