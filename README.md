@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning the syntax of C#
 - 💬 Ask me about adventures in Costa Rica
 - 📫 How to reach me: sseals1@gmail.com
-- If you want to know more about the NSS experience
+- Contact me if you want to know more about the NSS experience.
 <!--
 **sseals1/sseals1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
