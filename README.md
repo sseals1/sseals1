@@ -1,5 +1,6 @@
 ### Hi there 👋
-- Check out my Resume https://docs.google.com/document/d/1gd9fr-l4qrNyMXVWfqjGccpUNxJWC-2X/edit#heading=h.gjdgxs
+- LinkedIn: linkedin.com/in/sutherland-seals
+- Resume: https://docs.google.com/document/d/1gd9fr-l4qrNyMXVWfqjGccpUNxJWC-2X/edit#heading=h.gjdgxs
 - 🔭 I’m currently working on getting my computer setup for the C# backend bootcamp.
 - 🌱 I’m currently learning the syntax of C#
 - 💬 Ask me about adventures in Costa Rica
